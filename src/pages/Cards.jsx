@@ -1,6 +1,6 @@
 export default function Cards() {
     return <>
-        <h2>Cards</h2>
+        <h1>Cards</h1>
         <main id="playing-cards">
             <div className="card">
                 <div className="left">
@@ -8,7 +8,7 @@ export default function Cards() {
                     <p className="character">♠</p>
                 </div>
                 <div className="middle">
-                    <img src="images/bunny_spade.png" alt="bunny spade" />
+                    <img src="../../public/bunny_spade.png" alt="bunny spade" />
                 </div>
                 <div className="right">
                     <p className="character">A</p>
@@ -22,7 +22,7 @@ export default function Cards() {
                     <p className="red character">♥</p>
                 </div>
                 <div className="middle">
-                    <img src="images/bunny_clubs.png" alt="bunny clubs" />
+                    <img src="../../public/bunny_clubs.png" alt="bunny clubs" />
                 </div>
                 <div className="right">
                     <p className="red character">2</p>
@@ -36,7 +36,7 @@ export default function Cards() {
                     <p className="character">♣</p>
                 </div>
                 <div className="middle">
-                    <img src="images/bunny_heart.png" alt="bunny heart" />
+                    <img src="../../public/bunny_heart.png" alt="bunny heart" />
                 </div>
                 <div className="right">
                     <p className="character">3</p>

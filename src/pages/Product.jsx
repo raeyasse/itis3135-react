@@ -1,6 +1,6 @@
 export default function Product() {
     return <>
-        <h2>Product</h2>
+        
         <main>
             <div id="top-bar">
                 <div id="header-title">

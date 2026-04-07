@@ -1,6 +1,6 @@
 export default function WebsiteEvaluations() {
     return <>
-        <h2>Website Evaluations</h2>
+        
         <main>
             <h2>Website Evaluations (CRAP Principles)</h2>
 

@@ -1,6 +1,5 @@
 export default function Documentation() {
     return <>
-        <h2>Documentation</h2>
         <div id="doc-wrapper">
             <nav id="navbar">
                 <header>Guild Handbook</header>

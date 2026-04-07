@@ -1,6 +1,6 @@
 export default function Inventory() {
     return <>
-        <h2>Inventory</h2>
+    
         <main>
             <h1>Book Inventory</h1>
             <table>

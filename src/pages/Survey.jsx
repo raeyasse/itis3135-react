@@ -1,6 +1,6 @@
 export default function Survey() {
     return <>
-        <h2>Survey</h2>
+        
         <main>
             <h1 id="title">Ambitious Rabbit Adventure Guild Application</h1>
             <p id="description">Join the Ambitious Rabbit on daring quests across forests, mountains, and hidden burrows. Fill out this form to apply to the guild.</p>
