@@ -8,7 +8,7 @@ export default function Header() {
                 <Link to={"/contract"}>Contract</Link> |{" "}
                 <Link to={"/website_evaluations"}>Website Evaluation</Link> |{" "}
                 <Link to={"/survey"}>Survey</Link> |{" "}
-                <Link to={"/cards"}>Cards :)</Link> |{" "}
+                <Link to={"/cards"}>Cards</Link> |{" "}
                 <Link to={"/inventory"}>Inventory</Link> |{" "}
                 <Link to={"/documentation"}>Documentation</Link> |{" "}
                 <Link to={"/product"}>Product</Link> |{" "}

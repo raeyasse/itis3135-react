@@ -2,7 +2,7 @@ import { Route, Routes, HashRouter } from "react-router"
 import Index from './pages/index'
 import Header from './components/header'
 import Contract from './pages/contract'
-import Footer from './components/Footer'
+import Footer from './components/footer'
 import Cards from './pages/Cards'
 import Product from './pages/Product'
 import Documentation from './pages/Documentation'
