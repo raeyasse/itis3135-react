@@ -1,4 +1,8 @@
+import { useTitle } from "../hooks/useTitle";
+
 export default function Cards() {
+    useTitle("Raey Assefa's Ambitious Rabbit | ITIS 3135 | Cards");
+
     return <>
         <h1>Cards</h1>
         <main id="playing-cards">

@@ -1,6 +1,10 @@
+import { useTitle } from "../hooks/useTitle";
+
+
 export default function WebsiteEvaluations() {
+    useTitle("Raey Assefa's Ambitious Rabbit | ITIS 3135 | Website Evaluations");
     return <>
-        
+
         <main>
             <h2>Website Evaluations (CRAP Principles)</h2>
 

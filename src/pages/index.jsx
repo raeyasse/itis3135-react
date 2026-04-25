@@ -1,4 +1,6 @@
+import { useTitle } from "../hooks/useTitle";
 export default function Index(){
+    useTitle("Raey Assefa's Ambitious Rabbit | ITIS 3135 | Course");
     return(
         <>
         <h2>Course Page</h2>

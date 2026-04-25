@@ -1,4 +1,6 @@
+import { useTitle } from "../hooks/useTitle";
 export default function Inventory() {
+    useTitle("Raey Assefa's Ambitious Rabbit | ITIS 3135 | Inventory");
     return <>
     
         <main>

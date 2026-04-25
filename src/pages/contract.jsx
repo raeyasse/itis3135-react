@@ -1,4 +1,6 @@
+import { useTitle } from "../hooks/useTitle";
 export default function Contract() {
+    useTitle("Raey Assefa's Ambitious Rabbit | ITIS 3135 | Contract");
     return <>
         <h2>Contract</h2>
         <p>I, Raey Assefa agree to abide by the terms of the course contract in my Spring 2026, ITIS 3135,

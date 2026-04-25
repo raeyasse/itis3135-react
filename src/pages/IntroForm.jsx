@@ -1,6 +1,7 @@
 import { useState } from "react";
-
+import { useTitle } from "../hooks/useTitle";
 export default function IntroForm() {
+    useTitle("Raey Assefa's Ambitious Rabbit | ITIS 3135 | Intro Form");
     const [courses, setCourses] = useState([]);
 
     const addCourse = () => {
