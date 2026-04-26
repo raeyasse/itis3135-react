@@ -555,3 +555,28 @@ color: #555;
 main{
 font-size:115%;
 }
+
+.slideshow-btn {
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 8px;
+    border: none;
+    background-color: #4a90e2;
+    color: white;
+    cursor: pointer;
+}
+
+.slideshow-btn:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+}
+
+.slideshow-btn:hover:not(:disabled) {
+    background-color: #357abd;
+}
+.slideshow-buttons {
+    display: flex;
+    gap: 5px;
+    justify-content: center;
+    margin-top: 10px;
+}

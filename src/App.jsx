@@ -10,6 +10,7 @@ import IntroForm from './pages/IntroForm'
 import Inventory from './pages/Inventory'
 import Survey from './pages/Survey'
 import WebsiteEvaluations from './pages/WebsiteEvaluations'
+import Slideshow from './pages/Slideshow'
 
 function App() {
   return (
@@ -27,6 +28,7 @@ function App() {
             <Route path="/intro_form" element={<IntroForm />}></Route>
             <Route path="/inventory" element={<Inventory />}></Route>
             <Route path="/website_evaluations" element={<WebsiteEvaluations />}></Route>
+            <Route path="/slideshow" element={<Slideshow />}></Route>
           </Routes>
         </main>
         <Footer />

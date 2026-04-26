@@ -11,7 +11,8 @@ export default function Header() {
                 <Link to={"/cards"}>Cards</Link> |{" "}
                 <Link to={"/inventory"}>Inventory</Link> |{" "}
                 <Link to={"/documentation"}>Documentation</Link> |{" "}
-                <Link to={"/product"}>Product</Link>
+                <Link to={"/product"}>Product</Link> |{" "}
+                <Link to={"/slideshow"}>Slideshow</Link>
             </nav>
         </header>
     )
